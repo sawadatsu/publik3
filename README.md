@@ -16,7 +16,7 @@ $ apt install python
 $ pkg install python3
 $ apt install git
 $ git clone https://github.com/Myyepz/yepzpy3
-$ cd Selfbotpy3
+$ cd yepzpy3
 $ python -m pip install -r requirements.txt
 $ python3 helloworld.py
 ```
@@ -25,7 +25,7 @@ $ python3 helloworld.py
 
 ```sh
 $ git clone https://github.com/Myyepz/yepzpy3
-$ cd Selfbotpy3
+$ cd yepzpy3
 $ python3 -m pip install -r requirements.txt
 $ python helloworld.py
 ```
