@@ -13,7 +13,7 @@ client = LINE()
 clientMid = client.profile.mid
 clientStart = time.time()
 clientPoll = OEPoll(client)
-admin = "u45e29cb838e1ca883fd6886cc71c4615"
+admin = "u2b6d894e292f2bc9ed10819a195c850c"
 
 languageOpen = codecs.open("language.json","r","utf-8")
 readOpen = codecs.open("read.json","r","utf-8")
